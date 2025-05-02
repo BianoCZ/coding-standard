@@ -13,7 +13,7 @@
         <exclude name="PSR12.Files.DeclareStatement.SpaceFoundAfterDirective"/>
         <exclude name="PSR12.Files.DeclareStatement.SpaceFoundBeforeDirectiveValue"/>
         <exclude name="PSR12.Classes.OpeningBraceSpace"/>
-        <exclude name="SlevomatCodingStandard.TypeHints.UnionTypeHintFormat.DisallowedShortNullable"/>
+        <exclude name="SlevomatCodingStandard.TypeHints.DNFTypeHintFormat.DisallowedShortNullable"/>
         <exclude name="SlevomatCodingStandard.Commenting.RequireOneLineDocComment.MultiLineDocComment"/>
         <exclude name="SlevomatCodingStandard.PHP.RequireExplicitAssertion.RequiredExplicitAssertion"/>
         <exclude name="SlevomatCodingStandard.ControlStructures.EarlyExit.EarlyExitNotUsed"/>
